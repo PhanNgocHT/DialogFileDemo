@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DialogFileDemo</string>
+    <string name="map_dialog_title">Open GPS</string>
+    <string name="map_dialog_message">Do you want to open GPS for Google Map?</string>
+    <string name="all_button_ok">OK</string>
+    <string name="all_button_cancel">Cancel</string>
+</resources>
